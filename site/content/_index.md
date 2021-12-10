@@ -1,6 +1,6 @@
 ---
 title: Content is King - Take Your Throne
-subtitle: Talk is easy, let us help you send it
+subtitle: "Everything is communication. Let's Send It to the world. "
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?

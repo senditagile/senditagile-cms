@@ -3,7 +3,7 @@ title: Content is King - Take Your Throne
 subtitle: "Everything is communication. Let's Send It to the world. "
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: SendItAgile - Brining Dreams to Life
+  heading: SendItAgile - Bringing Dreams to Life
   text: "SendItAgile "
 intro:
   heading: What we offer
